@@ -21,6 +21,4 @@ This dataset is intended for:
 - Computer vision defect detection models
 - Academic experimentation
 
-## License
-Specify the license (e.g., MIT, CC BY 4.0, etc.)
 
