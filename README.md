@@ -35,8 +35,5 @@ This dataset is intended for:
 ## Why This Dataset Was Created
 Existing public datasets for additive manufacturing defect detection are limited in size or lack proper annotation. This dataset aims to provide structured, labeled data to accelerate research in automated inspection systems.
 
-## License
-Specify your license here (e.g., MIT License, CC BY 4.0, etc.)
-
 ## Author
 Collected and curated in Australia for research purposes.
